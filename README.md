@@ -1,4 +1,4 @@
-# aseprite-auto-build
+# aseprite-cmd
 Auto build script for Aseprite (Windows)
 
 ## Requirements
